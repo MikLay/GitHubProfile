@@ -12,7 +12,7 @@ Focused on creating clean, robust code. Motivated to learn and grow.
 </br>
   <img align="left" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=MikLay&show_icons=true&hide_border=true&theme=radical" />
   
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MikLay&layout=compact&theme=radical)](https://github.com/MikLay)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MikLay&layout=compact&theme=radical&hide_border=true)](https://github.com/MikLay)
 
 ---
 
