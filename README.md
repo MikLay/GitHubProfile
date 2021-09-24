@@ -14,6 +14,15 @@ Focused on creating clean, robust code. Motivated to learn and grow.
 <br />
 
 ---
+<details>
+  <summary>:zap: GitHub Stats</summary>
+
+  <img align="left" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=MikLay&show_icons=true&hide_border=true" />
+
+</details>
+
+---
+
 ### Languages and Tools:
 | <p style="float: left;"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/typescript.svg" width="22px"/> TypeScript</p> | <p style="float: left;"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/vue-dot-js.svg" width="22px"/> Vue.js</p> | <p style="float: left;"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/git.svg" width="22px"/> Git</p> |
 | --- | --- | --- |
