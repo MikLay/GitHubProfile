@@ -1,4 +1,4 @@
-### ✋ Hi there, I am Mykhailo Fediuchenko - aka MikLay
+### ✋ Hi there, I am Mykhailo Fediuchenko - aka MikLay (data is outdated going to update soon)
 ---
 ### 🤵 Profile
 Software developer with 2+ years of experience in creating and further maintenance of React/Vue apps. 
