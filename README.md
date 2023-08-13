@@ -37,7 +37,6 @@ Focused on creating clean, robust code. Motivated to learn and grow.
 ### 🗣️ Languages:
 - 🇬🇧 English
 - 🇺🇦 Ukrainian
-- 🇷🇺 Russian
 - 🇩🇪 German
 - 🇯🇵 Japanese
 
